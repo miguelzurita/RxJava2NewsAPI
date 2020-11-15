@@ -1,4 +1,4 @@
-package com.example.rxjava2newsapi.adapter
+package com.example.rxjava2newsapi.news.adapter
 
 import android.content.Context
 import android.support.v7.widget.CardView
@@ -9,7 +9,7 @@ import android.view.ViewGroup
 import android.widget.ImageView
 import android.widget.TextView
 import com.example.rxjava2newsapi.R
-import com.example.rxjava2newsapi.model.Article
+import com.example.rxjava2newsapi.news.model.Article
 import com.squareup.picasso.Picasso
 import kotlinx.android.synthetic.main.item_article.view.*
 

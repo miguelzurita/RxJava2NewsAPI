@@ -1,6 +1,6 @@
-package com.example.rxjava2newsapi.news_api
+package com.example.rxjava2newsapi.news.api
 
-import com.example.rxjava2newsapi.model.TopHeadlines
+import com.example.rxjava2newsapi.news.model.TopHeadlines
 import io.reactivex.Observable
 import retrofit2.http.GET
 import retrofit2.http.Query

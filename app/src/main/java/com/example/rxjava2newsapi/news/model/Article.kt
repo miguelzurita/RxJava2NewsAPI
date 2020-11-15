@@ -1,4 +1,4 @@
-package com.example.rxjava2newsapi.model
+package com.example.rxjava2newsapi.news.model
 
 data class Article(
     val source: Source,
